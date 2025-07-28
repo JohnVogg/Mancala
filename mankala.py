@@ -1,6 +1,3 @@
-#Boggelhs Ioannis, cs24tm12
-
-
 # Oi lakoi twn paixtwn
 player_X_pits = ('A','B','C','D','E','F')
 player_Y_pits = ('6', '5', '4', '3', '2', '1') 
