@@ -42,10 +42,3 @@ K | XX | XX | XX | XX | XX | XX | K
 
 
 (Where `XX` is the current count of balls)
-
-## ▶️ How to Play
-
-Run the game in your terminal:
-
-```bash
-python mancala.pyp
